@@ -234,6 +234,16 @@ a:link a:hover {
         fill:  #cc9a5e;
         transition: all 0.2s ease-in-out;}
 
+svg {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 0 15em 0;
+  max-width: 100%;
+  height: auto;
+margin
+}
+
 /*------ FOOTER ------*/
 
 footer {
